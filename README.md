@@ -1,4 +1,4 @@
-﻿# frontend-projects-html-and-css-only
+﻿# Frontend-Projects
 
 ## https://haweanahfaqaccordioncard.onrender.com/
 github: https://github.com/Haweanah/frontend-mentor-faq-accordion-card
@@ -14,3 +14,7 @@ github: https://github.com/Haweanah/product-list-with-cart/blob/main/data.json
 
 ## https://haweanahnewslettersignup.onrender.com/
 github: https://github.com/Haweanah/newsletter-sign-up
+
+##
+github: https://github.com/Haweanah/typing-speed-test
+
